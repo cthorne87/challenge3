@@ -7,3 +7,4 @@ made function to shuffle new array
 pulled a number of characters from array based on user input
 joined characters into string.
 returned results.
+https://cthorne87.github.io/challenge3/
