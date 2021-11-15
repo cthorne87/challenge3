@@ -8,3 +8,4 @@ pulled a number of characters from array based on user input
 joined characters into string.
 returned results.
 https://cthorne87.github.io/challenge3/
+![Capture1](https://user-images.githubusercontent.com/92702138/141720549-5b4fb19a-5689-4487-814c-277e4da00d72.JPG)
